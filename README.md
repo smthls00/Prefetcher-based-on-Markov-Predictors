@@ -1,4 +1,4 @@
-# Prefetcher-based-on-Markov-Predictors
+# Computer Architecture Report TDT4260 NTNU
 
 You must be truly desperate to come to us for help.
 
